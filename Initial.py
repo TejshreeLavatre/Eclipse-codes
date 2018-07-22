@@ -1,5 +1,3 @@
-#Obtaining the same output in different ways
-
 #Using regular print statement
 print("Hello Python")
 
